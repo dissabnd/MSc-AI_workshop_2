@@ -1,5 +1,5 @@
 # Introduction to AI for Process Engineering and Sustainable Industries 
-Part 2: Building Predictive Machine Learning Models 
+# Part 2: Building Predictive Machine Learning Models 
 
 Welcome to Part 2: Building Predictive Machine Learning Models, where we bridge the gap between AI theory and industrial reality. In this hands-on session, you will master the end-to-end ML pipeline, transforming raw, data into actionable model/ insights. 
 
